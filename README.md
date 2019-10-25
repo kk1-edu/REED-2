@@ -1,2 +1,2 @@
 # REED-2
-Another Reed!
+Welcome to REED-2!
